@@ -11,9 +11,10 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-                "james-yu.latex-workshop",
-                "tecosaur.latex-utilities",
-                "asciidoctor.asciidoctor-vscode"
+				"james-yu.latex-workshop",
+				"tecosaur.latex-utilities",
+				"asciidoctor.asciidoctor-vscode",
+				"github.vscode-github-actions"
 			]
 		}
 	}
